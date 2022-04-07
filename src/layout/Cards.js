@@ -10,7 +10,7 @@ function Cards() {
         <h2 className="cards__heading">My projects</h2>
         <div className="cards__card col">
             <Card className="cards__card" style={{ width: '18rem' }}>
-                <Card.Img variant="top" src={eduplaytion} alt="Project image" />
+                <Card.Img variant="top" src={eduplaytion} alt="Project_1" />
                 <Card.Body>
                     <Card.Title>Eduplaytion</Card.Title>
                     <Card.Text>
@@ -22,7 +22,7 @@ function Cards() {
         </div>
         <div className="cards__card col">
             <Card className="cards__card" style={{ width: '18rem' }}>
-                <Card.Img variant="top" src={nasa} alt="Project image" />
+                <Card.Img variant="top" src={nasa} alt="Project_2" />
                 <Card.Body>
                     <Card.Title>Nasa microsite</Card.Title>
                     <Card.Text>
