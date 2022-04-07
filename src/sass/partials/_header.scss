@@ -1,8 +1,11 @@
 .header {
     background-color: #212529;
 
+    &__box {
+        padding: 100px 0 100px 200px;
+    }
+
     &__text {
         color: white;
-        padding: 100px 0 100px 100px;
     }
 }
